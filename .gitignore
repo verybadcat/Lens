@@ -1,0 +1,96 @@
+# general file extensions
+*.com
+*.class
+*.dll
+*.exe
+*.mdb
+*.pdb
+*.o
+*.so
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.log
+*.sql
+*.sqlite
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.nuget/
+*.nupkg
+**/packages/*[0-9]*
+bin/
+obj/
+Art/Compiled/
+*.user
+*.user.*
+*.suo
+ProductInfo.cs
+VersionInfo.Designer.cs
+*.cache
+*.userprefs
+UpgradeLog*.htm*
+_UpgradeReport_Files/
+TestResults/
+Debug/
+Release/
+x64/
+ipch/
+*.opensdf
+*.sdf
+DirectXWrapper/Debug/
+DirectXWrapper/Release/
+*.nupkg
+*.user
+*.user.*
+*.suo
+*.cache
+*.userprefs
+*.opensdf
+*.sdf
+*.vspx
+*.pkg
+
+# OS-generated
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+*humbs.db
+
+# Versioning
+ProductInfo.cs
+VersionInfo.Designer.cs
+
+# Visual Studio upgrades
+UpgradeLog*.htm*
+_UpgradeReport_Files/
+
+# Output files
+bin/
+obj/
+
+# NuGet
+packages/*[0-9]*
+packages/.xbcache/Gmbladssdk*
+
+# Testing
+TestResults/
+
+# Components
+Components/
+
+# Build Configuration
+Debug/
+Release/
+x64/
+ipch/
+AppPackages/
